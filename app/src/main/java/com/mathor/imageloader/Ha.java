@@ -6,4 +6,5 @@ package com.mathor.imageloader;
  */
 
 public class Ha {
+    private String name;
 }
